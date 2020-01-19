@@ -15,13 +15,13 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 Product Screen
-![Product Screem](images/Products.PNG)
+!["Product Screen"](images/Products.PNG)
 
 Select Attributes Screen
-![Select Attributes](images/Select_Attributes.PNG)
+!["Select Attributes"](images/Select_Attributes.PNG)
 
 Compare Products table
-![Compare Product Table](images/Compare_Product_Table.PNG)
+!["Compare Product Table"](images/Compare_Product_Table.PNG)
 
 
 
