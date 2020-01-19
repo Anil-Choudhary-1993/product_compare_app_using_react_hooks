@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.userbox {
+  position:relative;
+  height: 120%;
+  margin-top: 15px;
+}
+
+.userbox img{
+  padding: 1px;
+} 
+
+.spanHover {
+  position: absolute;
+   top: 50%;
+   left: 25%;
+   width: 60%;
+   height: 25%;
+   display: none;
+   background:rgb(253, 253, 253);
+   font-size: larger;
+   text-align: center;
+   font-weight: bolder;
+   margin-top: 14;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: forestgreen;
+}
+
+
+.userbox:hover .spanHover {
+    display: block;
+  }
+
+
