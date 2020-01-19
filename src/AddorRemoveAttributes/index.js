@@ -17,11 +17,17 @@ const useStyles = makeStyles(theme => ({
         display: 'flex',
         flexDirection: 'column'
     },
+    title: {
+        fontWeight: 600
+    },
     formControl: {
         margin: theme.spacing(3),
     },
     root: {
         display: 'flex',
+    },
+    textfield: {
+        minWidth: 350
     }
 }));
 
@@ -65,14 +71,18 @@ function Attributes({ attributes, updateAttributes, open, handleClose }) {
                 onClose={handleClose}
                 aria-labelledby="alert-dialog-title"
                 aria-describedby="alert-dialog-description">
-                <DialogTitle id="alert-dialog-title">{"Add/Remove Attributes"}</DialogTitle>
+                <DialogTitle id="alert-dialog-title">
+                    <span className={classes.title}>{"Add/Remove Attributes"}</span>
+                </DialogTitle>
                 <DialogContent component="div">
                     <DialogContentText component="div" id="alert-dialog-description">
                         <div className={classes.box}>
                             <FormControl component="fieldset" className={classes.formControl}>
                                 <FormGroup>
                                     <FormControlLabel
-                                        control={<TextField id="outlined-search" value={searchAttribute} onChange={handleSearch} label="Search field" type="search" variant="outlined" />} />
+                                        control={<TextField id="outlined-search"
+                                            className={classes.textfield}
+                                            value={searchAttribute} onChange={handleSearch} label="Search Attributes" type="search" variant="outlined" />} />
                                 </FormGroup>
                                 <FormGroup>
                                     <FormControlLabel

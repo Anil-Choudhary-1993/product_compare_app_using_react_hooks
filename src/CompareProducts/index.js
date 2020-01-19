@@ -10,7 +10,7 @@ import Paper from '@material-ui/core/Paper';
 
 const useStyles = makeStyles({
     table: {
-        maxWidth: 300,
+        maxWidth: 600,
     },
     cell: {
         fontSize: 14,
