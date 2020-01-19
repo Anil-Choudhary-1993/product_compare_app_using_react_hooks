@@ -1,4 +1,4 @@
-This project is created using React Hooks, React materail ui and this sample project is used to compare products attributes after selection them.  
+This project is created using React Hooks, React material ui and this sample project is used to compare products using their attributes after user select the products.  
 
 ## Available Scripts
 
