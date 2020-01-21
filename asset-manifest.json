@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/css/main.4de87c98.chunk.css",
-    "main.js": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/js/main.35dc7769.chunk.js",
-    "main.js.map": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/js/main.35dc7769.chunk.js.map",
-    "runtime-main.js": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/js/runtime-main.f665db14.js",
-    "runtime-main.js.map": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/js/runtime-main.f665db14.js.map",
-    "static/js/2.a052cc34.chunk.js": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/js/2.a052cc34.chunk.js",
-    "static/js/2.a052cc34.chunk.js.map": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/js/2.a052cc34.chunk.js.map",
-    "index.html": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/index.html",
-    "precache-manifest.75737704a2c4689c7bb13a99b82d8331.js": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/precache-manifest.75737704a2c4689c7bb13a99b82d8331.js",
-    "service-worker.js": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/service-worker.js",
-    "static/css/main.4de87c98.chunk.css.map": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/css/main.4de87c98.chunk.css.map",
-    "static/js/2.a052cc34.chunk.js.LICENSE": "/Anil-Choudhary-1993/product_compare_app_using_react_hooks/static/js/2.a052cc34.chunk.js.LICENSE"
+    "main.css": "/product_compare_app/static/css/main.4de87c98.chunk.css",
+    "main.js": "/product_compare_app/static/js/main.dff0d6a2.chunk.js",
+    "main.js.map": "/product_compare_app/static/js/main.dff0d6a2.chunk.js.map",
+    "runtime-main.js": "/product_compare_app/static/js/runtime-main.5a211dea.js",
+    "runtime-main.js.map": "/product_compare_app/static/js/runtime-main.5a211dea.js.map",
+    "static/js/2.a052cc34.chunk.js": "/product_compare_app/static/js/2.a052cc34.chunk.js",
+    "static/js/2.a052cc34.chunk.js.map": "/product_compare_app/static/js/2.a052cc34.chunk.js.map",
+    "index.html": "/product_compare_app/index.html",
+    "precache-manifest.3f4c01c1d80b906d19037a83e317abf7.js": "/product_compare_app/precache-manifest.3f4c01c1d80b906d19037a83e317abf7.js",
+    "service-worker.js": "/product_compare_app/service-worker.js",
+    "static/css/main.4de87c98.chunk.css.map": "/product_compare_app/static/css/main.4de87c98.chunk.css.map",
+    "static/js/2.a052cc34.chunk.js.LICENSE": "/product_compare_app/static/js/2.a052cc34.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.f665db14.js",
+    "static/js/runtime-main.5a211dea.js",
     "static/js/2.a052cc34.chunk.js",
     "static/css/main.4de87c98.chunk.css",
-    "static/js/main.35dc7769.chunk.js"
+    "static/js/main.dff0d6a2.chunk.js"
   ]
 }
