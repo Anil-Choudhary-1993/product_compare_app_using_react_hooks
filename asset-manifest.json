@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/product_compare_app/static/css/main.4de87c98.chunk.css",
-    "main.js": "/product_compare_app/static/js/main.dff0d6a2.chunk.js",
-    "main.js.map": "/product_compare_app/static/js/main.dff0d6a2.chunk.js.map",
-    "runtime-main.js": "/product_compare_app/static/js/runtime-main.5a211dea.js",
-    "runtime-main.js.map": "/product_compare_app/static/js/runtime-main.5a211dea.js.map",
-    "static/js/2.a052cc34.chunk.js": "/product_compare_app/static/js/2.a052cc34.chunk.js",
-    "static/js/2.a052cc34.chunk.js.map": "/product_compare_app/static/js/2.a052cc34.chunk.js.map",
-    "index.html": "/product_compare_app/index.html",
-    "precache-manifest.86e56922e0ee7ce1687095b44763cf4a.js": "/product_compare_app/precache-manifest.86e56922e0ee7ce1687095b44763cf4a.js",
-    "service-worker.js": "/product_compare_app/service-worker.js",
-    "static/css/main.4de87c98.chunk.css.map": "/product_compare_app/static/css/main.4de87c98.chunk.css.map",
-    "static/js/2.a052cc34.chunk.js.LICENSE": "/product_compare_app/static/js/2.a052cc34.chunk.js.LICENSE"
+    "main.css": "/product_compare_app_using_react_hooks/static/css/main.4de87c98.chunk.css",
+    "main.js": "/product_compare_app_using_react_hooks/static/js/main.b64688f6.chunk.js",
+    "main.js.map": "/product_compare_app_using_react_hooks/static/js/main.b64688f6.chunk.js.map",
+    "runtime-main.js": "/product_compare_app_using_react_hooks/static/js/runtime-main.4cde0638.js",
+    "runtime-main.js.map": "/product_compare_app_using_react_hooks/static/js/runtime-main.4cde0638.js.map",
+    "static/js/2.a052cc34.chunk.js": "/product_compare_app_using_react_hooks/static/js/2.a052cc34.chunk.js",
+    "static/js/2.a052cc34.chunk.js.map": "/product_compare_app_using_react_hooks/static/js/2.a052cc34.chunk.js.map",
+    "index.html": "/product_compare_app_using_react_hooks/index.html",
+    "precache-manifest.8f66f905102c3aa93196b915f1ec5b0b.js": "/product_compare_app_using_react_hooks/precache-manifest.8f66f905102c3aa93196b915f1ec5b0b.js",
+    "service-worker.js": "/product_compare_app_using_react_hooks/service-worker.js",
+    "static/css/main.4de87c98.chunk.css.map": "/product_compare_app_using_react_hooks/static/css/main.4de87c98.chunk.css.map",
+    "static/js/2.a052cc34.chunk.js.LICENSE": "/product_compare_app_using_react_hooks/static/js/2.a052cc34.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a211dea.js",
+    "static/js/runtime-main.4cde0638.js",
     "static/js/2.a052cc34.chunk.js",
     "static/css/main.4de87c98.chunk.css",
-    "static/js/main.dff0d6a2.chunk.js"
+    "static/js/main.b64688f6.chunk.js"
   ]
 }
